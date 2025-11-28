@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => {
     base: '/Niks3D/',
 
     build: {
-      outDir: 'dist',   // <-- build directly to /docs
+      outDir: 'docs',   // <-- build directly to /docs
     },
 
     server: {
