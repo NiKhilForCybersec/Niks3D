@@ -1,0 +1,5 @@
+{
+  "name": "VeoAuth Studio",
+  "description": "A comprehensive suite featuring Veo-powered image-to-video generation and an interactive visualizer for enterprise network authentication flows.",
+  "requestFramePermissions": []
+}
